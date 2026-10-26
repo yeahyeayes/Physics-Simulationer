@@ -4,9 +4,6 @@
 
 a silly little 2D physics simulator , made for fooling around! :DD
 
-# Programming languages :
-Python , 
-technically Javascript (because of json files)
+# This is v1.2 of physics simulationer!
 
-# Works on (AS OF RIGHT NOW) :
-Binbows (windows)
+v1.1 source files were lost so i decided to make v1.2 from the ground up!
